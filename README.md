@@ -1,0 +1,1 @@
+This repository contains a shell script that demonstrates a subtle bug related to floating-point number comparisons. The script aims to find the largest number in a file, but it produces incorrect results due to precision limitations when dealing with floating-point numbers.  The `bugSolution.sh` file provides a corrected version of the script.
